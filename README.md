@@ -119,9 +119,9 @@ If you’d like to collaborate or integrate AI into your biological research, fe
 
 ## 📫 **Contact Us**
 
-**🌐 Website:** *(Coming soon)*
-**📧 Email:** [biogenovo.ai@gmail.com](mailto:biogenovo.ai@gmail.com)
-**🐙 GitHub:** [https://github.com/bio-genovo](https://github.com/bio-genovo)
+**🌐 Website:** *(Coming soon)*  
+**📧 Email:** [biogenovo.ai@gmail.com](mailto:biogenovo.ai@gmail.com)  
+**🐙 GitHub:** [https://github.com/bio-genovo](https://github.com/bio-genovo)  
 
 ---
 
